@@ -16,21 +16,21 @@ You need to download and install [Node v16.18.1](https://nodejs.org/en/blog/rele
 
 ### `Test the node`
 
-Open command prompt\
+Open command prompt
 
-Type `node -v`\ to check the version v16.18.1 is properly installed.
+Type `node -v` to check the version v16.18.1 is properly installed.
 
 ### `Verify GIT is inside your laptop`
 
-Please install GIT\
+Please install GIT
 
 ### `Install Project`
 
-Open command prompt and navigate to the directory where you want to download the application\
+Open command prompt and navigate to the directory where you want to download the application
 
-Type `git clone https://github.com/omer8080/aeon.git`\ to download the project\
+Type `git clone https://github.com/omer8080/aeon.git` to download the project
 
-Once download is successfull then `cd aeon`\
+Once download is successfull then `cd aeon`
 
 ### `npm start`
 
