@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
-
 ### `Install Visual Studio Code`
 
 You need to install [Visual Studio Code](https://code.visualstudio.com/Download) to view the code.
